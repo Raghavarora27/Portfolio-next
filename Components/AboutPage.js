@@ -159,7 +159,7 @@ const AboutPage = () => {
                   border: "none",
                 }}
               >
-                <Link href="https://github.com/Raghavarora27" target="_blank">
+                <Link href="https://github.com/Raghavarora27" target="_new">
                   <GitHubIcon style={{ fontSize: 35, color: "white" }} />
                 </Link>
               </Button>
@@ -172,7 +172,7 @@ const AboutPage = () => {
               >
                 <Link
                   href="https://www.linkedin.com/in/raghav-arora-2209a3184/"
-                  target="_blank"
+                  target="_new"
                 >
                   <LinkedInIcon style={{ fontSize: 35, color: "white" }} />
                 </Link>
@@ -224,8 +224,8 @@ const AboutPage = () => {
             </Link>
           </h3>
           <div className="text">
-            Hi! This is Raghav Arora. I'm currently pursuing my B.Tech Degree
-            (Pre-Final Year) in Information Technology from GGSIPU. I'm an
+            Hi! This is Raghav Arora. I&apos;m currently pursuing my B.Tech Degree
+            (Pre-Final Year) in Information Technology from GGSIPU. I&apos;m an
             aspiring Frontend developer who loves to learn and create new things
             and a result-oriented professional willing to work as a software
             engineer in a globally reputed company.
@@ -242,7 +242,7 @@ const AboutPage = () => {
               style={{ marginBottom: "8px" }}
               className="download"
             >
-              <a href="https://drive.google.com/file/d/1-1aiiUcLVC8BS_mUBXaGCdAad9WqcRUH/view?usp=sharing" target="_blank">
+              <a href="https://drive.google.com/file/d/1-1aiiUcLVC8BS_mUBXaGCdAad9WqcRUH/view?usp=sharing" target="_new">
                 {" "}
                 Download Resume
               </a>
@@ -304,7 +304,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://github.com/Raghavarora27/Reels-next"
-                    target="_blank"
+                    target="_new"
                   >
                     <GitHubIcon
                       style={{ fontSize: "2rem" }}
@@ -322,7 +322,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://reels-next-weld.vercel.app/"
-                    target="_blank"
+                    target="_new"
                   >
                     <SlideshowIcon
                       style={{ fontSize: "2rem" }}
@@ -379,7 +379,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://github.com/Raghavarora27/Movies-App"
-                    target="_blank"
+                    target="_new"
                   >
                     <GitHubIcon
                       style={{ fontSize: "2rem" }}
@@ -397,7 +397,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://movies-api-project.netlify.app/"
-                    target="_blank"
+                    target="_new"
                   >
                     <SlideshowIcon
                       style={{ fontSize: "2rem" }}
@@ -454,7 +454,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://github.com/Raghavarora27/Word-Hunt"
-                    target="_blank"
+                    target="_new"
                   >
                     <GitHubIcon
                       style={{ fontSize: "2rem" }}
@@ -470,7 +470,7 @@ const AboutPage = () => {
                     border: "none",
                   }}
                 >
-                  <Link href="https://hunt-word.netlify.app/" target="_blank">
+                  <Link href="https://hunt-word.netlify.app/" target="_new">
                     <SlideshowIcon
                       style={{ fontSize: "2rem" }}
                       color="secondary"
@@ -527,7 +527,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://github.com/Raghavarora27/Sorting_Visualizer"
-                    target="_blank"
+                    target="_new"
                   >
                     <GitHubIcon
                       style={{ fontSize: "2rem" }}
@@ -545,7 +545,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://raghavarora27.github.io/Sorting_Visualizer/"
-                    target="_blank"
+                    target="_new"
                   >
                     <SlideshowIcon
                       style={{ fontSize: "2rem" }}
@@ -602,7 +602,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://github.com/Raghavarora27/Jira-Ticket-Clone"
-                    target="_blank"
+                    target="_new"
                   >
                     <GitHubIcon
                       style={{ fontSize: "2rem" }}
@@ -620,7 +620,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://raghavarora27.github.io/Jira-Ticket-Clone/"
-                    target="_blank"
+                    target="_new"
                   >
                     <SlideshowIcon
                       style={{ fontSize: "2rem" }}
@@ -677,7 +677,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://github.com/Raghavarora27/Excel-Clone"
-                    target="_blank"
+                    target="_new"
                   >
                     <GitHubIcon
                       style={{ fontSize: "2rem" }}
@@ -695,7 +695,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://raghavarora27.github.io/Excel-Clone/"
-                    target="_blank"
+                    target="_new"
                   >
                     <SlideshowIcon
                       style={{ fontSize: "2rem" }}
@@ -752,7 +752,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://github.com/Raghavarora27/Camera-App"
-                    target="_blank"
+                    target="_new"
                   >
                     <GitHubIcon
                       style={{ fontSize: "2rem" }}
@@ -770,7 +770,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://raghavarora27.github.io/Camera-App/"
-                    target="_blank"
+                    target="_new"
                   >
                     <SlideshowIcon
                       style={{ fontSize: "2rem" }}
@@ -827,7 +827,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://github.com/Raghavarora27/Reels-next"
-                    target="_blank"
+                    target="_new"
                   >
                     <GitHubIcon
                       style={{ fontSize: "2rem" }}
@@ -845,7 +845,7 @@ const AboutPage = () => {
                 >
                   <Link
                     href="https://reels-next-weld.vercel.app/"
-                    target="_blank"
+                    target="_new"
                   >
                     <SlideshowIcon
                       style={{ fontSize: "2rem" }}
