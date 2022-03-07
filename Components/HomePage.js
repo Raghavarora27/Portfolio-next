@@ -1,6 +1,6 @@
 import React from "react";
 import raghav from "../assets/raghav.jpg";
-import Image from "next/Image";
+import Image from "next/image";
 import Button from "@mui/material/Button";
 import Typical from "react-typical";
 

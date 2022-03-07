@@ -2,7 +2,7 @@ import { Box, Button, Container, TextField } from "@mui/material";
 import React from "react";
 import StarBorderPurple500Icon from "@mui/icons-material/StarBorderPurple500";
 import SendIcon from "@mui/icons-material/Send";
-import  Image  from "next/Image";
+import  Image  from "next/image";
 import contact from "../assets/contact.jpeg";
 
 const ContactPage = () => {
