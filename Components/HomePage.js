@@ -3,6 +3,7 @@ import raghav from "../assets/raghav.jpg";
 import Image from "next/image";
 import Button from "@mui/material/Button";
 import Typical from "react-typical";
+import Link from "next/link";
 
 const HomePage = () => {
   return (
@@ -48,13 +49,15 @@ const HomePage = () => {
             justifyContent: "space-evenly",
           }}
         >
-          <Button
-            variant="outlined"
-            size="medium"
-            // style={{ marginRight: "4rem", marginLeft: "3rem" }}
-          >
-            Hire me
-          </Button>
+          <Link href="/Contact">
+            <Button
+              variant="outlined"
+              size="medium"
+              // style={{ marginRight: "4rem", marginLeft: "3rem" }}
+            >
+              Hire me
+            </Button>
+          </Link>
           <Button variant="contained" size="medium">
             <a
               href="https://drive.google.com/file/d/1-1aiiUcLVC8BS_mUBXaGCdAad9WqcRUH/view?usp=sharing"
