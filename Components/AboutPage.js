@@ -8,11 +8,11 @@ import MUI from "../assets/MUI.png";
 import JAVA from "../assets/JAVA.png";
 import nextjs from "../public/favicon.ico";
 import Firebase from "../assets/Firebase.png";
-import Insta from "../assets/Insta1.PNG";
+import Insta from "../assets/Insta.PNG";
 import wordHunt from "../assets/WordHunt.PNG";
 import Portfolio from "../assets/Portfolio.PNG";
-import Movies from "../assets/Movies.PNG";
-import Movies1 from "../assets/Movies1.PNG";
+import Movies1 from "../assets/Movies.PNG";
+import Movies from "../assets/Movies1.PNG";
 import Leetcode from "../assets/LeetCode.png";
 import Sorting from "../assets/Sorting.PNG";
 import gfg from "../assets/gfg.png";
@@ -826,7 +826,7 @@ const AboutPage = () => {
                   }}
                 >
                   <Link
-                    href="https://github.com/Raghavarora27/Reels-next"
+                    href="https://github.com/Raghavarora27/Portfolio-next"
                     target="_new"
                   >
                     <GitHubIcon
@@ -844,7 +844,7 @@ const AboutPage = () => {
                   }}
                 >
                   <Link
-                    href="https://reels-next-weld.vercel.app/"
+                    href="https://portfolio-raghav.vercel.app/"
                     target="_new"
                   >
                     <SlideshowIcon
