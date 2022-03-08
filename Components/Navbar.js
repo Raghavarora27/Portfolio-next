@@ -12,8 +12,7 @@ import Tooltip from "@mui/material/Tooltip";
 import MenuItem from "@mui/material/MenuItem";
 import logo from "../assets/logo.png";
 import Image from "next/image";
-import { useRouter } from "next/router";
-import { Link } from "@mui/material";
+import Link from "next/link";
 
 const pages = ["Home", "About", "Contact"];
 const settings = ["Profile", "Account", "Dashboard", "Logout"];

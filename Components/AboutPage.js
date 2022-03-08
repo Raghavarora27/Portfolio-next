@@ -1,4 +1,4 @@
-import { Button, Link } from "@mui/material";
+import { Button } from "@mui/material";
 import { Box } from "@mui/system";
 import React from "react";
 import react from "../assets/react.png";
@@ -8,8 +8,7 @@ import MUI from "../assets/MUI.png";
 import JAVA from "../assets/JAVA.png";
 import nextjs from "../public/favicon.ico";
 import Firebase from "../assets/Firebase.png";
-import Insta from "../assets/Insta.PNG";
-import Insta1 from "../assets/Insta1.PNG";
+import Insta from "../assets/Insta1.PNG";
 import wordHunt from "../assets/WordHunt.PNG";
 import Portfolio from "../assets/Portfolio.PNG";
 import Movies from "../assets/Movies.PNG";
@@ -30,6 +29,7 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import EmailIcon from "@mui/icons-material/Email";
 import PhoneIcon from "@mui/icons-material/Phone";
 import SlideshowIcon from "@mui/icons-material/Slideshow";
+import Link from "next/link";
 
 const AboutPage = () => {
   return (
@@ -219,9 +219,9 @@ const AboutPage = () => {
       <div className="aboutProject">
         <div className="about">
           <h3>
-            <Link color="inherit" margin={2} fontSize={23} borderColor="green">
+          <span style={{borderColor:"green",fontSize:"23px",margin:"2rem",fontStyle:"italic"}}>
               ABOUT
-            </Link>
+            </span>
           </h3>
           <div className="text">
             Hi! This is Raghav Arora. I&apos;m currently pursuing my B.Tech Degree
@@ -251,9 +251,9 @@ const AboutPage = () => {
         </div>
         <div className="project">
           <h3>
-            <Link color="inherit" margin={2} fontSize={23} borderColor="green">
+            <span style={{borderColor:"green",fontSize:"23px",margin:"2rem",fontStyle:"italic"}}>
               PROJECTS
-            </Link>
+            </span>
           </h3>
 
           <div className="projectBox">
