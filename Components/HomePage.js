@@ -60,7 +60,7 @@ const HomePage = () => {
           </Link>
           <Button variant="contained" size="medium">
             <a
-              href="https://drive.google.com/file/d/1-1aiiUcLVC8BS_mUBXaGCdAad9WqcRUH/view?usp=sharing"
+              href="https://drive.google.com/file/d/1DQ3rBIBFOccZmsx4nYykhKVxhM8mlcYa/view?usp=sharing"
               target="_new"
             >
               Resume
