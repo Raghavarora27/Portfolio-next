@@ -1,14 +1,14 @@
 This is my fully Responsive and Simple Single Page Portfolio WebApp.
-## Technologies Used
-<h2>HTML, CSS, Material-UI, NextJS</h2><a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="max-width: 100%;"> </a><a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" style="max-width: 100%;"> </a>
+# Technologies Used
+<h3>HTML, CSS, Material-UI, NextJS</h3><a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="max-width: 100%;"> </a><a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="50px" src="https://camo.githubusercontent.com/a8e563f93d88e965ad40323a626baa8cdefa1554b2e08a26afbc994ac48d3c88/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6d6174657269616c2d75692d312e737667" style="max-width: 100%;"> </a>    
 <a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" style="max-width: 100%;"> </a>
  
-## Desktop View:-
+# Desktop View:-
 ![1](https://user-images.githubusercontent.com/66276244/201472610-f02b84e0-7e50-457f-9901-f7e83c50a10b.PNG)
 ![2](https://user-images.githubusercontent.com/66276244/201472615-e366c0eb-7c23-4a75-ab6d-2a7988cee54b.PNG)
 ![3](https://user-images.githubusercontent.com/66276244/201472617-94cf50eb-a80e-49d1-8eee-605b640acedb.PNG)
-## Mobile View
+# Mobile View:-
 
 ![mobile (11)](https://user-images.githubusercontent.com/66276244/201472718-c297e7cf-b983-46a0-aabc-7977a51928e0.png)
 
@@ -16,9 +16,8 @@ This is my fully Responsive and Simple Single Page Portfolio WebApp.
 ![mobile (8)](https://user-images.githubusercontent.com/66276244/201472631-c7d17647-72ae-49fd-a1bd-46c52026bcbb.png)
 ![mobile (9)](https://user-images.githubusercontent.com/66276244/201472630-bf17eb00-0e64-4962-8ef8-b243e5ad0229.png)
 
+# Getting Started
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
 
 First, run the development server:
 
