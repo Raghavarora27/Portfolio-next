@@ -242,7 +242,7 @@ const AboutPage = () => {
               style={{ marginBottom: "8px" }}
               className="download"
             >
-              <a href="https://drive.google.com/file/d/1DQ3rBIBFOccZmsx4nYykhKVxhM8mlcYa/view?usp=sharing" target="_new">
+              <a href="https://drive.google.com/file/d/1cezNR_355rPWQDGDc_3zzbrGG3U2ECzX/view?usp=sharing" target="_new">
                 {" "}
                 Download Resume
               </a>
