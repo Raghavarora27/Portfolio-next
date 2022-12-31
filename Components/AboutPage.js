@@ -225,7 +225,7 @@ const AboutPage = () => {
           </h3>
           <div className="text">
             Hi! This is Raghav Arora. I&apos;m currently pursuing my B.Tech Degree
-            (Pre-Final Year) in Information Technology from GGSIPU. I&apos;m an
+            (Final Year) in Information Technology from GGSIPU. I&apos;m an
             aspiring Frontend developer who loves to learn and create new things
             and a result-oriented professional willing to work as a software
             engineer in a globally reputed company.
